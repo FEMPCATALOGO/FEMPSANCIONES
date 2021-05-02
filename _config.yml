@@ -20,16 +20,16 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
-  avatar : "img/bicicleta.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  name   : "Sanciones y multas"
+  avatar : "img/sanciones.png"
+  bio    : "Vocabulario para la representación de datos sobre sanciones y multas."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+      url: "https://github.com/opencitydata/transporte-sanciones-multas-trafico"
 
 
 
