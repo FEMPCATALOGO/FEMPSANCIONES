@@ -31,7 +31,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | Innexistente | *[Página web]()* *[Repositorio](https://github.com/opencitydata/transporte-sanciones-multas-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-sanciones-multas-trafico/issues)*   | Vocabulario para la representación de datos sobre las sanciones o multas de tráfico.  |  |  |  |  |   |
+| Transporte | Inexistente |  *[Repositorio](https://github.com/opencitydata/transporte-sanciones-multas-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-sanciones-multas-trafico/issues)*   | Vocabulario para la representación de datos sobre las sanciones o multas de tráfico.  |  |  |  |  |   |
  
  
   
