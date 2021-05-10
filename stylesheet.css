@@ -33,6 +33,7 @@ body{
   letter-spacing: 1px;
   margin: 0;
   text-decoration: none;
+ font-size:20px;
 }
 .menu-4 a:before,
 .menu-4 a:after {
