@@ -3,9 +3,6 @@ h1{
  color: #ff7f50;    
 }
 
-body{
- background-image:url("img/webb.png");   
-}
 
 /** navigation bar */
 
@@ -33,7 +30,7 @@ body{
   letter-spacing: 1px;
   margin: 0;
   text-decoration: none;
- font-size:20px;
+font-size:15px;
 }
 .menu-4 a:before,
 .menu-4 a:after {
